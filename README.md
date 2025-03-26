@@ -1,1 +1,0 @@
-# Trash-Detection-Using-Yolo-v5
